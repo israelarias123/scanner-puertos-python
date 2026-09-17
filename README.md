@@ -125,9 +125,9 @@ El manual detallado, con capturas de pantalla, se encuentra en
 
 | N.° | Nombre completo | Aporte |
 |---|---|---|
-| 1 | | |
+| 1 | Genaro Israel Arias Escobar| 1 |
 | 2 | | |
 | 3 | | |
 | 4 | | |
 
-Carrera: _____________  Asignatura: _____________  Docente: _____________
+Carrera: TIC  Asignatura: _____________  Docente: _____________
