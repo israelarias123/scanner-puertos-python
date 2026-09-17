@@ -3,6 +3,14 @@
  ESCÁNER DE PUERTOS DE RED
  Universidad Estatal de Milagro (UNEMI) Grupo #10
  Lenguaje: Python 3 | Biblioteca principal: socket
+
+ INTEGRANTES:
+ ROLANDO GUAMAn
+ ISRAEL ARIAS
+ KEVIN BAZURTO
+ XIMENA CARDENA
+ MILLY
+ 
 ===============================================================
 
 Descripción:
